@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Learning clean code",
+      "day": "01/03/2021",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Learning react hooks",
+      "day": "22/03/2021",
+      "reminder": true
+    },
+    {
+      "text": "learning scrum gide",
+      "day": "26/03/2021",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
